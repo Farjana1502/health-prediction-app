@@ -1,0 +1,32 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    background: rgb(220, 209, 238);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.1);
+}
+
+table {
+    background: rgb(71, 20, 20);
+}
+
+.btn {
+    margin-right: 5px;
+    color: black;
+    background-color: rgb(158, 187, 212) ;
+    size: 20px;
+}
+
