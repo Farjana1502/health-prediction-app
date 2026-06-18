@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect
 from flask_sqlalchemy import SQLAlchemy
-import google.generativeai as genai
+#import google.generativeai as genai
 
 # Gemini API Key
 #genai.configure(api_key="")
